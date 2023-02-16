@@ -15,5 +15,5 @@ CAPTION: process.env.CAPTION === undefined ? '*Support in ntm bot group*' : proc
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
 INBOX_BL_MSG: process.env.INBOX_BL_MSG === undefined ? '*Inbox not allowed' : process.env.INBOX_BL_MSG,
 HOST: process.env.HOST === undefined ? 'whatsapp' : process.env.HOST,
-SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=d3oTULQR#lLoKxz_XDS37zVauULkFdFafjmAEzG2kxlLmtIs_3hw' : process.env.SESSION_ID
+SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=LkFdFafjmAEzG2kxlLmtIs_3hw' : process.env.SESSION_ID
 };
